@@ -151,9 +151,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👥 Authors
 
-- **Aayush Chauhan** 
-- **Ekansh Dubey**  
-- **Manish Sharma** 
+- [**Aayush Chauhan**](https://github.com/aayush010904)
+- [**Ekansh Dubey**](https://github.com/ekansh-exe)  
+- [**Manish Sharma**](https://github.com/Manishcicada)
 
 
 **Made with ❤️ for sustainable agriculture and food security**
